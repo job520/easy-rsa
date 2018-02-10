@@ -1,0 +1,2 @@
+V	280208140315Z		01	unknown	/C=CN/ST=HB/L=WH/O=Fort-Funston/OU=lee/CN=server/name=server/emailAddress=mail@host.domain
+V	280208140416Z		02	unknown	/C=CN/ST=HB/L=WH/O=Fort-Funston/OU=lee/CN=client/name=client/emailAddress=mail@host.domain
